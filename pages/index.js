@@ -32,7 +32,7 @@ export default function Home() {
       </Head>
       <div className="page-container">
         <nav className="navbar">
-          <h1 className="logo">nevio</h1>
+          <h1 className="logo">Neurocloud</h1>
           <div className="nav-links">
             <a href="/" className="nav-link active">Upload</a>
             <a href="https://whatsapp.com/channel/0029VatW5hiA2pLEagt7gu35" className="nav-link">Advertise</a>
